@@ -1,0 +1,6 @@
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\bin\Debug\HW_6.exe.config
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\bin\Debug\HW_6.exe
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\bin\Debug\HW_6.pdb
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\obj\Debug\HW_6.csprojResolveAssemblyReference.cache
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\obj\Debug\HW_6.exe
+C:\Users\azelik\Desktop\selfdev\HW_6\HW_6\obj\Debug\HW_6.pdb
